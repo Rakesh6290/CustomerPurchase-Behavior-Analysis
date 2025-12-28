@@ -1,0 +1,22 @@
+customer_id,order_id,product_name,category,total_amount,purchase_date,review_text
+C001,O1001,iPhone 14,Electronics,75000,2024-01-10,Great phone
+C002,O1002,AirPods,Electronics,18000,2024-02-12,Good sound
+C001,O1003,MacBook Air,Computers,98000,2024-03-01,Excellent performance
+C003,O1004,Running Shoes,Fashion,4500,2024-01-20,Comfortable
+C004,O1005,T-shirt,Fashion,1200,2024-02-18,Average quality
+C005,O1006,Blender,Home Appliances,3500,2024-05-10,Works well
+C006,O1007,Smart Watch,Electronics,12000,2024-04-22,Very stylish
+C007,O1008,Laptop Bag,Accessories,2200,2024-01-05,Good material
+C008,O1009,LED TV,Electronics,55000,2023-11-30,Excellent picture quality
+C009,O1010,Desk Chair,Furniture,8000,2023-10-15,Comfortable seating
+C010,O1011,Air Conditioner,Home Appliances,45000,2023-08-20,Cools quickly
+C011,O1012,Headphones,Electronics,3500,2024-06-05,Decent sound
+C012,O1013,Jeans,Fashion,2500,2024-03-18,Good fit
+C013,O1014,Microwave,Home Appliances,7000,2024-01-25,Easy to use
+C014,O1015,Tablet,Electronics,30000,2024-02-28,Fast and smooth
+C015,O1016,Sneakers,Fashion,5000,2023-09-10,Very comfortable
+C016,O1017,Backpack,Accessories,1800,2023-12-15,Durable
+C017,O1018,Camera,Electronics,40000,2023-11-05,High quality
+C018,O1019,Office Desk,Furniture,12000,2023-10-01,Sturdy
+C019,O1020,Smartphone Case,Accessories,1200,2024-06-01,Good protection
+C020,O1021,Blender,Home Appliances,4000,2023-07-15,Works perfectly
